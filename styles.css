@@ -1,0 +1,75 @@
+body
+{
+    background-color: black;
+    background-image: url('pics/space.png');
+    text-align: center;
+}
+
+p
+{
+    color: rgba(37, 160, 154, 0.726);
+    text-shadow: -1px 1px plum;
+    font-size: 23px;
+    margin: 10px;
+}
+
+th
+{
+    font-size: 20px;
+    text-shadow: -1px .5px rgb(135, 26, 133);
+    margin-top: 50px;
+}
+
+a:hover
+{
+    color: rgb(221, 84, 214);
+    text-decoration-style:wavy;
+    cursor: help;
+}
+
+.copyrightText
+{
+    font-size: 17px;
+    color: rgba(72, 177, 171, 0.795);
+    text-shadow: none;
+}
+.boards
+{
+    color: rgba(114, 172, 196, 0.699);
+    text-shadow: -1px 1px rgb(189, 84, 163);
+    font-size: 22px;
+    
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+.boardsContent
+{
+    color: teal;
+    margin-right: 100px;
+    margin-left: 100px;
+
+    text-decoration-line: wavy;
+}
+
+.center
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#jaxxlogo
+{
+    width: 250px;
+    height: 120px;
+
+    margin-bottom: 25px;
+}
+#boardLogo
+{
+    width: 125px;
+    height: 45px;
+
+    margin-top: 40px;
+}
